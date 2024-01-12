@@ -1,0 +1,4 @@
+Soma Positivos: 6091
+Soma Negativos: -4153
+Maior: 276
+Menor: -294
